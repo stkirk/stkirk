@@ -21,6 +21,7 @@
   ![AntDesign](https://img.shields.io/badge/-AntDesign-333333?style=flat&logo=antdesign)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![Knex](https://img.shields.io/badge/-Knex-333333?style=flat&logo=knex)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 - ⚙️ &nbsp;
