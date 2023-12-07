@@ -3,9 +3,9 @@
 ### Hey, I'm Shane 👋 👋 👋
 ### I'm a Full Stack Web Developer | Front End Engineer | Back End Engineer
 
-- 🔭 I’m currently working on 👉 A case management CRM for a non-profit
-- 🤔 I’m looking for help with 👉 Getting a full time job as a developer lol
-- 🌱 I’m currently learning 👉 To wrap my head around recursive algorithms for graphs
+- 🔭 I’m currently working on 👉 grind75
+- 🤔 I’m looking for help with 👉 A new role as a web dev
+- 🌱 I’m currently learning 👉 To deepend my skills in Data Structures and Algorithms
 - ⚡ Fun fact: 👉 I'm an avid woodworker in my spare time
 
 <h3> 🛠 &nbsp;Tech Stack (constantly evolving)</h3>
